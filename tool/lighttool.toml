@@ -1,0 +1,9 @@
+[tool]
+id = "io.github.sevgjan.sudoku"
+label = "Daily Sudoku"
+versionCode = 1
+versionName = "0.1.0"
+permissions = []
+capabilities = []
+serverPackage = "com.lightos"
+orientation = "portrait"
